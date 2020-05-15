@@ -1,0 +1,10 @@
+# eduroam-jamfpro
+
+![Image of popup](https://uc302363c1f3affaaec162817659.previews.dropboxusercontent.com/p/thumb/AAdbyMdia4ytaw7OmAJNYXv7CHzC0gxlLK95rPIyYgBbuq1YX0offldOX4bUb8zmWD31fTeFjnIh-RjCl1UFatnLtS-6qPJqFyaIw_2Tn8mxK0eSGdC2XRH9gzFAwRJgXnPKmvt-kvR1NbfMOcz4l7ZDT50EP323ZAkeSbvE2GaeTugs2KUdJxKKD65tnkuOxxx6qw4sDsV1ZAXD1mfvZcHNWtNIpRt9V-KdibxrbSM0rVxc-bw2KpLWRE60TK2fFM2BM593fEUEVY07SKmYE0NPFrFR_kjt4IvRB85G66e-aWrp1sW_oKfKsORuKjpQYkT2JvqlnhPDX_k4lxHSnUaJSyWSgfHNaeSNR43ZSCGAkNDZujZ23FoPbH66V9yVimc/p.png?fv_content=true&size_mode=5)
+
+Script for displaying eduroam popup w/ username for issued machines using Jamf Pro
+
+
+
+Credit to Johan McGwire @ Denison University
+
