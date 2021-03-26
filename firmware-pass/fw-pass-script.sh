@@ -1,4 +1,5 @@
 #! /usr/bin/expect
+
 spawn sudo firmwarepasswd -setpasswd
 expect {
      "Enter new password:" {
